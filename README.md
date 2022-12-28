@@ -1,8 +1,14 @@
 # Livros
 
+Lembrete para cada atividade crie um arquivo ponto sql (.sql)
+Segue um exemplo:
+Para a Atividade 1: atividade-1.sql
+Para a Atividade 2: atividade-2.sql
+
+ETC...
+
 ### Atividade 1
 Criar uma query para colocar todos os Autores em maiúsculo e retirar os espaços em branco.
-
 
 
 ### Atividade 2
